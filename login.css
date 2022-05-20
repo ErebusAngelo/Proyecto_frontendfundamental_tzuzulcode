@@ -1,0 +1,81 @@
+body{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(../fondo.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+header{
+    font-size: 30px;
+    text-align: center;
+     margin-bottom: 30px;
+     color:rgb(8, 26, 23);
+     
+     text-decoration-line:underline;
+     text-decoration-thickness:2px;
+}
+form{
+    opacity: 90%;
+    width: 500px;
+    background-color: rgb(133, 177, 177);
+    margin-top: 15%;
+    margin-left:33% ;
+    border-radius: 4px;
+    text-align: center;
+
+}
+.item{
+    font-size: 25px;
+}
+.dato{
+    text-align: center;
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+  
+}
+
+
+.item{
+    font-size: 25px;
+}
+.dato{
+    text-align: center;
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+  
+}
+#boton{
+    opacity: 100%;
+   margin: 40px; 
+    font-size: 20px;
+    letter-spacing: 5px;
+    font-family: 'Koulen', cursive;
+    background-color: rgb(104, 165, 141);
+    font-weight:bolder;
+    width: 400px;
+    height: 40px;
+}
+#icono{
+    color: rgb(46, 94, 62);
+    font-size: 20px;
+    background-color: rgb(104, 165, 141);
+    font-weight:bolder;
+}
+label{
+    font-weight: bold;
+}
